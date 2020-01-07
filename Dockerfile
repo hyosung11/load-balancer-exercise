@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM node:13.5.0
 
 EXPOSE 3000
 
